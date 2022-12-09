@@ -11,7 +11,7 @@ apt install git nvidia-cuda-toolkit -y
 셋업
 
 ```
-git clone https://github.com/ssalmug-corini/aleo_f2
+git clone https://github.com/ssalmug-corini/aleo_f2pool
 cd aleo_f2
 ```
 
